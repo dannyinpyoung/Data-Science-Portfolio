@@ -14,5 +14,5 @@ The data used in the portfolio can be found through the following resources (acc
 
 * Business Intelligence and Analytics
 
-If you enjoyed what you saw and would like to speak about work opportunities, collaboration, or about the portfolio, you can reach me at [dannyinpyoung@gmail.com](dannyinpyoung@gmail.com)
+If you enjoyed what you saw and would like to speak about work opportunities, collaboration, or about the portfolio, you can reach me at [dannyinpyoung@gmail.com](dannyinpyoung@gmail.com). 
 
