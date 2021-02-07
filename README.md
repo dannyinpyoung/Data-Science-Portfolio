@@ -7,6 +7,7 @@ The data used in the portfolio can be found through the following resources (acc
 ## Contents
 
 * Data Analysis and Visualization
+  * U.S. Insurance Costs
 
 * Machine Learning
 
