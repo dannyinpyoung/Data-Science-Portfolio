@@ -16,9 +16,9 @@ The data used in the portfolio can be found here: [insurance.csv](https://github
 
 ## Contents ##
 
-* Data Analysis and Visualization
+* ## Data Analysis and Visualization ##
 
-	* Python
+	* __Python__
 		* [U.S. Insurance Costs](https://github.com/dannyinpyoung/Data-Science-Portfolio/blob/main/Portfolio%20Project/U.S.%20Insurance%20Costs.ipynb): 
 		
 		_Tools used: Pandas, NumPy, Matplotlib, Seaborn, and etc_
@@ -27,11 +27,11 @@ The data used in the portfolio can be found here: [insurance.csv](https://github
  
  Tools Used: NumPy, Pandas, Matplotlib, Seaborn
 
-* Machine Learning
+* ## Machine Learning ##
 
-* Financial Markets and Economics
+* ## Financial Markets and Economics ##
 
-* Business Intelligence and Analytics
+* ## Business Intelligence and Analytics ## 
 
 If you enjoyed what you saw and would like to speak about work opportunities, collaboration, or about the portfolio, you can reach me at [dannyinpyoung@gmail.com](dannyinpyoung@gmail.com). 
 
