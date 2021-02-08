@@ -19,7 +19,7 @@ Some of the packages and modules used are: __Pandas, NumPy, Beautifulsoup, Matpl
 	* __Python__
 		* [U.S. Insurance Costs](https://github.com/dannyinpyoung/Data-Science-Portfolio/blob/main/Portfolio%20Project/U.S.%20Insurance%20Costs.ipynb): Analysis of U.S. medical insurance costs, observing factors in contract pricing such as BMI, sex, smoker status, number of children, region, and age. Applied regession analysis to predict comparative effects of each variable on total costs of insurance. Analysis methods used: regression analysis, 
 		
-		_Tools used: Pandas, NumPy, Matplotlib, Seaborn, and etc_
+	_Tools used: Pandas, NumPy, Matplotlib, Seaborn, and etc_
 
 * ### Machine Learning ###
 
