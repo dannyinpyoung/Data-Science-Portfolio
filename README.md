@@ -1,4 +1,4 @@
-## Data Science Portfolio ##
+# Data Science Portfolio #
 
 This repository consists of projects pursused for academic, hobby, and continuous learning purposes. These projects are presented in the form of Jupyterlabs Notebooks, STATA do-files, and R markdown files. 
 
@@ -14,12 +14,11 @@ Some of the packages and modules used are: __Pandas, NumPy, Beautifulsoup, Matpl
 
 The data used in the portfolio can be found here: [insurance.csv](https://github.com/dannyinpyoung/Data-Science-Portfolio/tree/main/Portfolio%20Project) 
 
-# Contents #
+## Contents ##
 
- Markup : * Data Analysis and Visualization
-              * Python
-                  * [U.S. Insurance Costs](https://github.com/dannyinpyoung/Data-Science-Portfolio/blob/main/Portfolio%20Project/U.S.%20Insurance%20Costs.ipynb): 
-          * Bullet list item 2
+* Data Analysis and Visualization
+	* Python
+		* [U.S. Insurance Costs](https://github.com/dannyinpyoung/Data-Science-Portfolio/blob/main/Portfolio%20Project/U.S.%20Insurance%20Costs.ipynb): 
  
  Tools Used: NumPy, Pandas, Matplotlib, Seaborn
 
