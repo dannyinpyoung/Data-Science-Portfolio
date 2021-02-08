@@ -14,10 +14,11 @@ Some of the packages and modules used are: __Pandas, NumPy, Beautifulsoup, Matpl
 
 The data used in the portfolio can be found here: [insurance.csv](https://github.com/dannyinpyoung/Data-Science-Portfolio/tree/main/Portfolio%20Project) 
 
-## Contents
+# Contents
 
-Data Analysis and Visualization
+## Data Analysis and Visualization
  * Python 
+ 
   ** [U.S. Insurance Costs](https://github.com/dannyinpyoung/Data-Science-Portfolio/blob/main/Portfolio%20Project/U.S.%20Insurance%20Costs.ipynb): Analysis of U.S. medical insurance costs and
  
  Tools Used: NumPy, Pandas, Matplotlib, Seaborn
