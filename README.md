@@ -8,7 +8,7 @@ Some of the methods we used to acquire data are:
 * Web Scraping
 * APIs
 * Manual Data Acquisition
-* BI Tools
+* BI Tools (Power BI and Tableau)
 
 Some of the packages and modules used are: __Pandas, NumPy, Beautifulsoup, Matplotlib, Scikit, and etc.__
 
@@ -19,8 +19,10 @@ The data used in the portfolio can be found here: [insurance.csv](https://github
 * Data Analysis and Visualization
 
 	* Python
-	
 		* [U.S. Insurance Costs](https://github.com/dannyinpyoung/Data-Science-Portfolio/blob/main/Portfolio%20Project/U.S.%20Insurance%20Costs.ipynb): 
+		_Tools used: Pandas, NumPy, Matplotlib, Seaborn, and etc_
+		
+	
  
  Tools Used: NumPy, Pandas, Matplotlib, Seaborn
 
