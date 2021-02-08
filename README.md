@@ -2,10 +2,6 @@
 
 This repository consists of projects pursused for academic, hobby, and continuous learning purposes. These projects are presented in the form of Jupyterlabs Notebooks, STATA do-files, and R markdown files. 
 
-Some of the packages and modules used are: __Pandas, NumPy, Beautifulsoup, Matplotlib, Scikit, and etc.__
-
-The data used in the portfolio can be found here: [insurance.csv](https://github.com/dannyinpyoung/Data-Science-Portfolio/tree/main/Portfolio%20Project) 
-
 Some of the methods we used to acquire data are: 
 
 * Public & Private Data
@@ -13,6 +9,10 @@ Some of the methods we used to acquire data are:
 * APIs
 * Manual Data Acquisition
 * BI Tools
+
+Some of the packages and modules used are: __Pandas, NumPy, Beautifulsoup, Matplotlib, Scikit, and etc.__
+
+The data used in the portfolio can be found here: [insurance.csv](https://github.com/dannyinpyoung/Data-Science-Portfolio/tree/main/Portfolio%20Project) 
 
 ## Contents
 
