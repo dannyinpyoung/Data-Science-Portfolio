@@ -25,7 +25,7 @@ Some of the packages and modules used are: __Pandas, NumPy, Beautifulsoup, Matpl
 
 * ### Financial Risk Management, Economics, and Financial Markets ###
 	* __Python__ + __Excel__
-		* Implied Volatility Estimation and Forecasting: Analyze and estimate implied volatility using EWMA, GARCH(1,1), and GARCH(N,M) models. Used Sum of Squared Errors and Maximum Liklihood Estimator methods for optimizing parameters with EWMA. We analyze the model's performance with back-testing.
+		* Implied Volatility Estimation and Forecasting: Analyze and estimate implied volatility using EWMA, GARCH(1,1), and GARCH(N,M) models. Used Sum of Squared Errors and Maximum Liklihood Estimator methods for optimizing parameters with EWMA. We calculate key FRM metrics such as VaR, C-VaR, and M-VaR, and assess model performance through back-testing.
 
 * ### Business Intelligence and Analytics ###
 
